@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+#out{width:1360px;height:200px;background:url(/springmvc/img/title.gif);
+-moz-box-shadow: 10px 10px 10px #909090;
+-webkit-box-shadow: 10px 10px 10px #909090;
+box-shadow:10px 10px 10px #000;}
+#menutable{height:200px;}
+#cta {background:url(/springmvc/img/nsbg.jpg);}
+#div1{width:1360px; height:200px; background:gray;float:none; }
+.logo {width: 185px;height: 135px;margin: 0 57px 0 0px;float: left;}
+.logo a{display: block;height: 100%;margin-top:-40px}
+.guide {position: relative;z-index: 2;height:200px;width: 825px;float: left;   margin-left: 74px;}
+.guide li{ filter:alpha(opacity=50);  
+      -moz-opacity:0.9;  
+      -khtml-opacity: 0;  
+      opacity: 0;   }
+.main-menu {overflow: hidden;zoom: 1;height:195px;width:100%;padding: 0 0 0 0;}
+.main-menu li {width: 150px;height: 184px;float: left;margin-right: 0px;text-align:center;line-height:215px;}
+.main-menu a {display: block;height: 100%;overflow: hidden;text-indent: -999em; color:#666; font-size:66px;}
+.not-users {width: 170px;height: 162px;margin: 0px 0px 0 0px;float: right;background:#af0647;}
+nav {height:400px;}
+li { border: 2px 
+    -moz-border-radius: 15px; 
+    -webkit-border-radius: 15px; 
+    border-radius:15px;      }

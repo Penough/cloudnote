@@ -1,0 +1,45 @@
+#mbody {
+	font-family:"Lucida Grande", arial, sans-serif;
+	background:#F3F3F3;
+}
+
+#mul{
+	margin:0;
+	padding:0;
+	width:410px;
+}
+
+#mli1,
+#mli2,
+#mli3,
+#mli4{
+	width:100px;
+	height:50px;
+	float:left;
+	color:#191919;
+	text-align:center;
+	overflow:hidden;
+	border-radius:0px;
+}
+
+#ma{
+	color:#FFF;
+	text-decoration:none;
+}
+
+#mp{
+	text-shadow:none;
+	text-align:center;
+}
+
+	.subtext{
+		padding-top:22px;
+		font-size:10px;
+	}
+
+/*Menu Color Classes*/
+.green{background:#6AA63B url('/springmvc/images/green-item-bg.jpg') top left no-repeat;}
+.yellow{background:#FBC700 url('/springmvc/images/yellow-item-bg.jpg') top left no-repeat;}
+.red{background:#D52100 url('/springmvc/images/red-item-bg.jpg') top left no-repeat;}
+.purple{background:#5122B4 url('/springmvc/images/purple-item-bg.jpg') top left no-repeat;}
+.blue{background:#0292C0 url('/springmvc/images/blue-item-bg.jpg') top left no-repeat;}

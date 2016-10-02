@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+th {width:335px;height:200px;margin:0px;padding:0px;word-break:break-all;padding-right:4px;opacity:.75; text-align: right;margin-top:5px;}
+tr {width:1340px;height:200px}
+
+#con {width:1350px;height:795px;margin:0px;padding:0px;/* filter:alpha(opacity=50);  
+      -moz-opacity:0.95;  
+      -khtml-opacity: 0.95;  
+      opacity: 0.95;   */
+      }
+#cta {color:black;}
+#nsbody{background:url(/springmvc/img/nsbodybg.jpg);background-size:1370px 230px}
+#c1 {white-space:nowrap;width:335px;height:64px;overflow:hidden;text-overflow:ellipsis;}
+#c2 {white-space:nowrap;width:335px;height:64px;overflow:hidden;text-overflow:ellipsis;}
+#c3 {white-space:nowrap;width:335px;height:64px;overflow:hidden;text-overflow:ellipsis;}
+#c4 {white-space:nowrap;width:335px;height:64px;overflow:hidden;text-overflow:ellipsis;}
+#c5 {white-space:nowrap;width:335px;height:64px;overflow:hidden;text-overflow:ellipsis;}
+#c6 {white-space:nowrap;width:335px;height:64px;overflow:hidden;text-overflow:ellipsis;}
+#c7 {white-space:nowrap;width:335px;height:64px;overflow:hidden;text-overflow:ellipsis;}
+#c8 {white-space:nowrap;width:335px;height:64px;overflow:hidden;text-overflow:ellipsis;}
